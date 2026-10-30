@@ -1,6 +1,6 @@
 import ollama
 
-requerimiento = "El usuario ingresa su email y contrasena y el sistema autentica los datos"
+requerimiento = ""
 
 response = ollama.systemone(
     model='d1-omni:600m',
